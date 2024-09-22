@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\bai_02\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|solutionrelative:bai_02\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\bai_02\\nhanviensanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|solutionrelative:bai_02\\nhanviensanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\bai_02\\nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|solutionrelative:bai_02\\nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\bai_02\\diachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|solutionrelative:bai_02\\diachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|c:\\users\\mythd\\onedrive\\desktop\\oop\\oop_5\\bai_02\\bai_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C03F810-CE6E-453E-B44E-579E204B89BA}|Bai_02\\Bai_02.csproj|solutionrelative:bai_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_02\\Program.cs",
+              "ToolTip": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\Program.cs",
+              "RelativeToolTip": "Bai_02\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:59:36.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiaChi.cs",
+              "DocumentMoniker": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\DiaChi.cs",
+              "RelativeDocumentMoniker": "Bai_02\\DiaChi.cs",
+              "ToolTip": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\DiaChi.cs",
+              "RelativeToolTip": "Bai_02\\DiaChi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:15:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienVanPhong.cs",
+              "DocumentMoniker": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\NhanVienVanPhong.cs",
+              "RelativeDocumentMoniker": "Bai_02\\NhanVienVanPhong.cs",
+              "ToolTip": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\NhanVienVanPhong.cs",
+              "RelativeToolTip": "Bai_02\\NhanVienVanPhong.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:19:05.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienSanXuat.cs",
+              "DocumentMoniker": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\NhanVienSanXuat.cs",
+              "RelativeDocumentMoniker": "Bai_02\\NhanVienSanXuat.cs",
+              "ToolTip": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\NhanVienSanXuat.cs",
+              "RelativeToolTip": "Bai_02\\NhanVienSanXuat.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:08:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Bai_02\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\mythd\\OneDrive\\Desktop\\OOP\\OOP_5\\Bai_02\\Bai_02\\NhanVien.cs",
+              "RelativeToolTip": "Bai_02\\NhanVien.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:00:36.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

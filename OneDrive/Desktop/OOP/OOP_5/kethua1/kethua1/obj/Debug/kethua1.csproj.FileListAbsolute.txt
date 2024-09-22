@@ -1,0 +1,7 @@
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\bin\Debug\kethua1.exe.config
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\bin\Debug\kethua1.exe
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\bin\Debug\kethua1.pdb
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\obj\Debug\kethua1.csproj.AssemblyReference.cache
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\obj\Debug\kethua1.csproj.CoreCompileInputs.cache
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\obj\Debug\kethua1.exe
+C:\Users\mythd\OneDrive\Desktop\kethua1\kethua1\obj\Debug\kethua1.pdb

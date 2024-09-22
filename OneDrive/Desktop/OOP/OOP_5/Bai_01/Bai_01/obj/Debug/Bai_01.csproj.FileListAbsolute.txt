@@ -1,0 +1,7 @@
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\bin\Debug\Bai_01.exe.config
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\bin\Debug\Bai_01.exe
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\bin\Debug\Bai_01.pdb
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\obj\Debug\Bai_01.csproj.AssemblyReference.cache
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\obj\Debug\Bai_01.csproj.CoreCompileInputs.cache
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\obj\Debug\Bai_01.exe
+C:\Users\mythd\OneDrive\Desktop\OOP\OOP_5\Bai_01\Bai_01\obj\Debug\Bai_01.pdb
